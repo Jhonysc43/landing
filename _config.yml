@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
+your_name                                 : Jhonatan Santos                                
 your_link                                 : https://emilbaehr.com                     
 your_city                                 : Copenhagen                                
 email_address                             : emil.baehr@gmail.com
@@ -36,16 +36,16 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Seu Website mais bonito
+    description                           : Transforme seu website em uma verdadeira obra de arte com o nosso aplicativo inovador. Com ferramentas poderosas e intuitivas, você pode facilmente personalizar e embelezar o seu website, capturando a atenção dos visitantes logo de cara
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Aplicativos amigaveis para o usuário
+    description                           : Fazemos aplicativos super modernos, usando frameworks de ultima geração, deixamos seus seu aplicativo intuitivo, amigável para o usuário.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Ganhe mais visibilidade
+    description                           : Com nossas landing pages, você conseguirá mais cliques.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
